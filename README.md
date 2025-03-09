@@ -10,5 +10,5 @@ La programación de los robots se realizó a través del software ABB RobotStudi
 ## PAC
 
 ## Modelado 3D
-
+JCGV
 ## Fabricación
