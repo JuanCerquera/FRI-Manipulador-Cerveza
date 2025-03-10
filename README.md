@@ -11,13 +11,16 @@ La programación de los robots se realizó a través del software ABB RobotStudi
 
 ## Modelado 3D
 
-Se realiazo el diseño y desarrollo de los elementos necesarios para transportar botellas de cerveza: 
+Se realizo el diseño y desarrollo de los elementos necesarios para transportar botellas de cerveza: 
 
-**Botellas:** Heineken y Mahou
+**Botellas:** Heineken y Mahou. Se utilizo la técnica de multicuerpo para modelar tanto las botellas como el líquido contenido (cerveza, densidad aprox de 1.004 gr/cm^3).
+
+![image](https://github.com/user-attachments/assets/e5e9af82-3e9d-49eb-873d-f981e96344f3)
+
 
 **Bandeja tipo Palet:** para transportar hasta 3 botellas.
 
-**Griper Cervezas: **para tomar y trasportar cervezas:
+**Griper Cervezas:** para tomar y transportar cervezas:
 
 **Dedos griper:** Se diseño buscando optimizar su peso, se llevaron acabo estudios de optimización topológica y análisis estático por técnicas de elementos finitos, buscando encontrar el factor de seguridad menor posible, es decir no sobrediseñar.
 
