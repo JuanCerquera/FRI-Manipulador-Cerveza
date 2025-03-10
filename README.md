@@ -11,7 +11,7 @@ La programación de los robots se realizó a través del software ABB RobotStudi
 
 ## Modelado 3D
 
-Se realizo el diseño y desarrollo de los elementos necesarios para transportar botellas de cerveza, apoyados en la herramienta "Autodesk Inventor Professional 2025": 
+Se realizo el diseño y desarrollo de los elementos necesarios para transportar botellas de cerveza, apoyados en la herramienta "Autodesk Inventor Professional (AIP) 2025": 
 
 **Botellas:** Heineken y Mahou. Se utilizo la técnica de multicuerpo para modelar tanto las botellas como el líquido contenido (cerveza, densidad aprox de 1.004 gr/cm^3). Gracias a los modelos se determina el centro de masa.
 
@@ -41,4 +41,32 @@ Análisis estático (factor de seguridad).
 
 ![image](https://github.com/user-attachments/assets/2e8410d0-ccc4-465d-afcc-e7646c8cb3bc)
 
+**Interacción con Robotstudio (RS):** Los efectores (herramienetas a crear en RS) se convierten a formato *.OBJ. Se consulta en AIP parámetros de centro de masa (gravedad) y momentos de inercia.
+
 ## Fabricación
+
+**Manufactura Aditiva: **
+
+Se convierten a formato *.STL dedos y gripers.
+
+Nota, Los agujeros son maquinados con posterioridad a la impresión.
+
+**Carpinteria:**
+
+Con la orientación de los planos mostratos a continuación se fabrica la Bandeja.
+
+Ensamble:
+
+![image](https://github.com/user-attachments/assets/d17fada9-58e8-438c-a7d4-9ddbc329b30d)
+
+Despiece:
+
+![image](https://github.com/user-attachments/assets/bbf881f7-c08d-4884-acbc-b18e4cb48c71)
+
+![image](https://github.com/user-attachments/assets/7f5455e9-aae3-4786-a305-cbaafd09a814)
+
+![image](https://github.com/user-attachments/assets/677fe986-7daa-44bc-9698-3a275baeab73)
+
+**Metal-mecánica:**
+
+Se fabrican las guías ....
