@@ -33,6 +33,8 @@ Se realiza un análisis gráfico (vectorial) de las cargas (condiciones de opera
 
 ![image](https://github.com/user-attachments/assets/dd87efb8-437a-474a-9259-0fb8e6b16ea2)
 
+Análisis estático (factor de seguridad).
+
 ![image](https://github.com/user-attachments/assets/1525621e-1357-41e2-af1e-759128811353)
 
 ## Fabricación
