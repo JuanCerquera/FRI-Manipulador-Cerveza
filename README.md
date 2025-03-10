@@ -37,7 +37,7 @@ Análisis estático (factor de seguridad).
 
 ![image](https://github.com/user-attachments/assets/1525621e-1357-41e2-af1e-759128811353)
 
-**Gripper para Bandeja tipo Palet:** se dise¤a un efector que tome la bendeja con tres envases y los transporte.
+**Gripper para Bandeja tipo Palet:** se diseña un efector que tome la bandeja con tres envases y los transporte.
 
 ![image](https://github.com/user-attachments/assets/2e8410d0-ccc4-465d-afcc-e7646c8cb3bc)
 
