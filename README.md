@@ -45,21 +45,21 @@ Análisis estático (factor de seguridad).
 
 ## Fabricación
 
-**Manufactura Aditiva: **
+**Manufactura Aditiva:**
 
 Se convierten a formato *.STL dedos y gripers.
 
-Nota, Los agujeros son maquinados con posterioridad a la impresión.
+Nota, Los agujeros son máquinados con posterioridad a la impresión.
 
 **Carpinteria:**
 
-Con la orientación de los planos mostratos a continuación se fabrica la Bandeja.
+Con la orientación de los planos mostratos a continuación se fabrica la **Bandeja.**
 
-Ensamble:
+**Ensamble:**
 
 ![image](https://github.com/user-attachments/assets/d17fada9-58e8-438c-a7d4-9ddbc329b30d)
 
-Despiece:
+**Despiece:**
 
 ![image](https://github.com/user-attachments/assets/bbf881f7-c08d-4884-acbc-b18e4cb48c71)
 
