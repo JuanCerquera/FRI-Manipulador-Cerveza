@@ -45,7 +45,7 @@ Análisis estático (factor de seguridad).
 
 ![image](https://github.com/user-attachments/assets/2e8410d0-ccc4-465d-afcc-e7646c8cb3bc)
 
-**Interacción con Robotstudio (RS):** Los efectores (herramienetas a crear en RS) se convierten a formato *.OBJ. Se consulta en AIP parámetros de peso, centro de masa (gravedad) y momentos de inercia.
+**Interacción con Robotstudio (RS):** Los efectores (herramientas a crear en RS) se convierten a formato *.OBJ. Se consulta en AIP parámetros de peso, centro de masa (gravedad) y momentos de inercia.
 
 ## Fabricación
 
