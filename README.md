@@ -29,6 +29,10 @@ Se toma como referencia y punto de partida, el manual (tipo catálogo) Mindman.
 
 **Dedos griper:** Se diseño buscando optimizar su peso, se llevaron acabo estudios de optimización topológica y análisis estático por técnicas de elementos finitos, buscando encontrar el factor de seguridad menor posible, es decir no sobrediseñar.
 
+Se realiza un análisis gráfico (vectorial) de las cargas (condiciones de operación) a soportar por los dedos del griper. Se parte de una apertura de 30° sin tomar las botellas y se lleva a una apertura de 22° al tomar cada una de las cervezas.
+
+![image](https://github.com/user-attachments/assets/dd87efb8-437a-474a-9259-0fb8e6b16ea2)
+
 ![image](https://github.com/user-attachments/assets/1525621e-1357-41e2-af1e-759128811353)
 
 ## Fabricación
