@@ -13,9 +13,9 @@ La programación de los robots se realizó a través del software ABB RobotStudi
 
 Se realizo el diseño y desarrollo de los elementos necesarios para transportar botellas de cerveza: 
 
-**Botellas:** Heineken y Mahou. Se utilizo la técnica de multicuerpo para modelar tanto las botellas como el líquido contenido (cerveza, densidad aprox de 1.004 gr/cm^3).
+**Botellas:** Heineken y Mahou. Se utilizo la técnica de multicuerpo para modelar tanto las botellas como el líquido contenido (cerveza, densidad aprox de 1.004 gr/cm^3). Gracias a los modelos se determina el centro de masa.
 
-![image](https://github.com/user-attachments/assets/e5e9af82-3e9d-49eb-873d-f981e96344f3)
+![image](https://github.com/user-attachments/assets/2e628bef-0f79-4823-a3f9-b57ef6f14c0a)
 
 
 **Bandeja tipo Palet:** para transportar hasta 3 botellas.
