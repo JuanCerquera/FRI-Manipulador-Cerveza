@@ -14,8 +14,11 @@ La programación de los robots se realizó a través del software ABB RobotStudi
 Se realiazo el diseño y desarrollo de los elementos necesarios para transportar botellas de cerveza: 
 
 Botellas: Heineken y Mahou
+
 Bandeja tipo Palet: para transportar hasta 3 botellas.
+
 Griper para tomar y trasportar cervezas:
+
 Dedos griper: Se diseño buscando optimizar su peso, se llevaron acabo estudios de optimizacion topologica y análisis estático buscando definir el factor de seguridad menor posible, es decir no sobrediseñar.
 
 ## Fabricación
