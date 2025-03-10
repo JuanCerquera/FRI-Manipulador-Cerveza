@@ -7,7 +7,20 @@ La programación de los robots se realizó a través del software ABB RobotStudi
 
 ![image](https://github.com/user-attachments/assets/75095ebb-f105-4af8-8daa-1c2a06152475)
 
-## PAC
+## PACK
+Para el control de la secuencia del proceso se utilizó el PACK de Rockwell disponible en el laboratorio y se programó de acuerdo al sigiuente diagrama de flujo:
+
+![image](https://github.com/user-attachments/assets/0e25c532-dfe9-4a2f-b012-9e4beb372cb7)
+
+El programa resultante en Ladder fue el siguiente:
+
+![image](https://github.com/user-attachments/assets/28b04b26-4aa9-4f93-b6bc-6a4f12bf3869)
+
+Por último se realizó una HMI para inicio y monitoreo del proceso como se muestra a continuación:
+
+![image](https://github.com/user-attachments/assets/c0f21f0f-68e9-4585-950e-fe7a58eb3246)
+
+
 
 ## Modelado 3D
 
