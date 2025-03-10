@@ -17,7 +17,7 @@ Se realizo el diseño y desarrollo de los elementos necesarios para transportar 
 
 ![image](https://github.com/user-attachments/assets/2e628bef-0f79-4823-a3f9-b57ef6f14c0a)
 
-**Bandeja tipo Palet:** para transportar hasta 3 botellas, meterial madera.
+**Bandeja tipo Palet:** para transportar hasta 3 botellas, material madera.
 
 ![image](https://github.com/user-attachments/assets/13ed70cc-0271-46b8-908e-006cdb22d4d9)
 
